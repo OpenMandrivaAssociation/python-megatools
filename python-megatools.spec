@@ -6,7 +6,6 @@ Summary:	Simple python Megatools wrapper
 URL:		https://pypi.org/project/megatools/
 License:	GPL
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
 BuildArch:	noarch
 Requires:	megatools
