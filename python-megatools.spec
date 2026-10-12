@@ -1,6 +1,6 @@
 Name:		python-megatools
 Version:	0.0.4
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/m/megatools/megatools-%{version}.tar.gz
 Summary:	Simple python Megatools wrapper
 URL:		https://pypi.org/project/megatools/
